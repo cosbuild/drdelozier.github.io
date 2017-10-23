@@ -1,0 +1,101 @@
+<html>
+<head>
+  <title>Title</title>
+  <style> body { font-family: 'Courier'; } </style>
+</head>
+<body><textarea id="source" style="display:none">
+
+class: center, middle
+
+# Advanced Database Systems Design
+
+## Abstraction Layer 
+
+# Oct 11, 2017
+
+---
+
+# Agenda
+
+1. Coding an abstraction layer
+2. Using the abstractions
+3. Testing the abstraction
+
+---
+
+# Abstraction Layer
+
+1. Separate storage method from UI and business rules
+2. Make it easy to test storage capabilities
+3. Make it easy to replace or modify storage capabilities
+
+---
+
+# Creating Abstractions
+
+1. Create a function for each data action
+
+  A. List - return JSON for each selected record
+
+  B. Create - return ID for new record
+
+  C. Get - return item for ID
+
+  D. Update - put items into record with ID
+
+  E. Delete - delete record with ID
+
+2. Accept parameters, return JSON
+
+---
+
+# Testing Abstractions
+
+1. Unit tests for each function
+2. Use the parts that work to test the next parts
+3. It's OK to use ordinary unit tests here 
+4. Make the tests as technology-agnostic as possible
+5. Coding time...
+
+---
+
+# Using Abstractions
+
+1. Recode web operations using these functions
+2. Don't be afraid to refine abstractions
+3. Keep database knowledge out of web app
+
+---
+
+# Before Abstraction
+
+```
+@post('/edit/<id:int>')
+def post_edit(id):
+    updated_task = request.POST.task.strip()
+    conn = sqlite3.connect('todo.db')
+    c = conn.cursor()
+    c.execute("UPDATE todo SET task = ? WHERE id LIKE ?", (updated_task,id))
+    new_id = c.lastrowid
+    conn.commit()
+    c.close()
+    redirect("/tasks")
+```
+
+---
+
+# After Abstraction 
+
+```
+@post('/edit/<id:int>')
+def post_edit(id):
+    updated_task = request.POST.task.strip()
+    database.update_task(id, updated_task)
+    redirect("/tasks")
+```
+---
+
+</textarea></body>
+<script src="remark.js"></script>
+<script>var slideshow = remark.create();</script>
+</html>

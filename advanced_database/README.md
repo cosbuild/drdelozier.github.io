@@ -11,7 +11,9 @@ Slides
 
 (Some slides are in the [repository]().)
 
+[Data Abstraction Layer] (slides__data_abstraction_layer.html)
 
+[Using ORM and TinyDB] (slides__using_orm_and_tiny_db.html)
 
 
 
