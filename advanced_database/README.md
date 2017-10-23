@@ -1,10 +1,16 @@
 Advanced Database Systems Design
 ================================
+
 Fall 2017
-Gregory S. DeLozier
+
+Gregory S. DeLozier, Instructor
+
 
 Slides
 ------
+
+(Some slides are in the [repository]().)
+
 
 
 
@@ -13,6 +19,7 @@ Slides
 Code
 ----
 
+(Some most code is in the [repository]().)
 
 
 
