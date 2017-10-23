@@ -1,4 +1,4 @@
-###www.drdelozier.net
+www.drdelozier.net
 
 Dr. Gregory S. DeLozier
 =======================
