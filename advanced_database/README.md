@@ -25,7 +25,7 @@ Slides
 Code
 ----
 
-(Some most code is in the [repository]().)
+(Source code is in the [repository](https://github.com/drdelozier/advanced_database_class).)
 
 
 
