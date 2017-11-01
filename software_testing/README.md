@@ -23,7 +23,7 @@ Slides
 Code
 ----
 
-(Some most code is in the [repository]().)
+(Most code is in the [repository]().)
 
 
 
