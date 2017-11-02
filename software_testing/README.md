@@ -11,7 +11,7 @@ Slides
 
 (Some slides are in the [repository]().)
 
-* [Intro](slide/lecture_testing_intro.md)
+* [Intro](slides/lecture_testing_intro.md)
 * [Layers](slides/lecture_testing_layers.md)
 * [Database](slides/lecture_testing_database.md)
 * [Black Box Testing](slides/lecture_testing_bbst_etc.md)
