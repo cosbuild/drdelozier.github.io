@@ -17,8 +17,6 @@ Slides
 * [Black Box Testing](slides/lecture_testing_bbst_etc.md)
 * [Oracles/NYPL](slides/lecture_testing_oracle_nypl.md)
 * [Paramiko/Fabric](slides/lecture_testing_remote_execution.pdf)
-* [Remote Server Testing](slides/slides_remote_server_testing.md)
-
 
 Code
 ----
