@@ -46,7 +46,7 @@ Additional Resources
 Code
 ----
 
-(Most code is in the [repository]().)
+(Most code is in the [repository](https://github.com/drdelozier/software_testing).)
 
 
 
