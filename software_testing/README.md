@@ -18,11 +18,10 @@ Slides
 * [Database](slides/lecture_testing_database.md)
 * [Black Box Testing](slides/lecture_testing_bbst_etc.md)
 * [Oracles/NYPL](slides/lecture_testing_oracle_nypl.md)
-* [TDD/BDD](Software-Testing-2017-TDD-BDD-Overview.pdf)
-* [Puppet/Chef](lecture_9.puppet-chef-paramiko.pdf)
+* [TDD/BDD](slides/Software-Testing-2017-TDD-BDD-Overview.pdf)
+* [Puppet/Chef](slides/lecture_9.puppet-chef-paramiko.pdf)
 * [Paramiko/Fabric](slides/lecture_testing_remote_execution.pdf)
-* [Special Topics](Software_Testing _Special_Topics.pdf)
-
+* [Special Topics](slides/Lecture_Software_Testing_Special_Topics.pdf)
 
 Additional Resources
 --------------------
