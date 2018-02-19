@@ -1,6 +1,8 @@
-# Course Materials - Dr. Gregory S. DeLozier - Kent State</title>
+# Course Materials - Dr. Gregory S. DeLozier - Kent State
 
-## Spring 2018 Courses
+## Spring 2018
+
+### - [General Instructions](general_instructions)
 
 ### - [Software Engineering Methodology](software_engineering)
 
