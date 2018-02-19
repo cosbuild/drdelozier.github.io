@@ -8,4 +8,4 @@
 
 ### - [Resources](resources)
 
-###[[ www.drdelozier.net ]](http://www.drdelozier.net)
+### [[ www.drdelozier.net ]](http://www.drdelozier.net)
