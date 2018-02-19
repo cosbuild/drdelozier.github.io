@@ -1,13 +1,11 @@
-# Course Materials - Dr. Gregory S. DeLozier - Kent State
+# Course Materials - Spring 2018
 
-## Spring 2018
+## - [Useful Resources](useful_resources)
 
-### - [General Instructions](general_instructions)
+## - [Software Engineering Methodology](software_engineering)
 
-### - [Software Engineering Methodology](software_engineering)
+## - [Cloud Application Design](cloud_application_design)
 
-### - [Cloud Application Design](cloud_application_design)
+## - [Resources](resources)
 
-### - [Resources](resources)
-
-### [[ www.drdelozier.net ]](http://www.drdelozier.net)
+### [[ www.drdelozier.net - Dr. Gregory S. DeLozier - Kent State ]](http://www.drdelozier.net)
