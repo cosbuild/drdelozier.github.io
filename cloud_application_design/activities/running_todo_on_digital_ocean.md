@@ -3,14 +3,20 @@
 ## 1. Get a machine (droplet)
 
 * Log into Digital Ocean
+
 * Request a droplet
-  * No keys
+  * No SSH keys this time
   * Small - 1 Gb
 
 * Get the root password from email
+
 * SSH into the machine
-  * By IP address
-  * As root
+
+  * Using the machine's IP address
+  * As root, e.g. 
+
+    * ```$ ssh root@123.124.125.126```
+
   * Use root password
   * Change to new password
 
@@ -31,8 +37,8 @@ $ pip3 install pytest
 Using your own name and email, configure git:
 
 ```
-git config --global user.email "msmart86@kent.edu"
-git config --global user.name "Maxwell Smart"
+$ git config --global user.email "msmart86@kent.edu"
+$ git config --global user.name "Maxwell Smart"
 ```
 
 ## 4. Get the application software
