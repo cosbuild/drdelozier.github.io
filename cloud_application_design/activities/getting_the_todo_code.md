@@ -1,4 +1,4 @@
-# Getting the _Todo_ Code
+# Getting the _todo_ code
 
 ## 1. Under Construction
 

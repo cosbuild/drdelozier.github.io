@@ -13,7 +13,7 @@
 * [Changing the data provider](activities/changing_the_data_provider.md)
 * [Setting up an MLAB provider](activities/setting_up_an_MLAB_provider.md)
 * [Running _todo_ on PythonAnywhere](activities/running_todo_on_pythonanywhere.md)
-* [Running _todo_ on Digital Ocean](activities/running_todo_on_digital_ocean.md)
+* [Running _todo_ on Digital Ocean](running_todo_on_digital_ocean.md)
 
 ## 4. Code
 
