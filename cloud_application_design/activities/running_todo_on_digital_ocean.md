@@ -1,4 +1,4 @@
-# Running _Todo_ on Digital Ocean
+# Running _todo_ on Digital Ocean
 
 ## 1. Get a machine (droplet)
 
