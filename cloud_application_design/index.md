@@ -18,8 +18,10 @@
 ## 4. Code
 
 Most code is in the repository at
-* (https://github.com/drdelozier/cloud_application_design)
-* (https://github.com/drdelozier/todo_list).)        
+
+* <https://github.com/drdelozier/cloud_application_design>
+* <https://github.com/drdelozier/todo_list>
 
 ---
+
 ### [[ www.drdelozier.net - Dr. Gregory S. DeLozier - Kent State ]](http://www.drdelozier.net)
