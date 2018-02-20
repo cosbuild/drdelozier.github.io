@@ -1,8 +1,8 @@
 # Getting the _Todo_ Code
 
-## 1. Under Construction...
+## 1. Under Construction
 
-## 2. Still Working On It...
+## 2. Still Working On It
 
 ---
 
