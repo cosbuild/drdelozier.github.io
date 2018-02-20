@@ -17,13 +17,13 @@
 ## 2. Load software
 
 ```bash
-$$ apt-get update
-$$ apt-get upgrade
-$$ apt-get install python3-pip
-$$ pip3 install --upgrade pip
-$$ pip3 install bottle
-$$ pip3 install pymongo
-$$ pip3 install pytest
+$ apt-get update
+$ apt-get upgrade
+$ apt-get install python3-pip
+$ pip3 install --upgrade pip
+$ pip3 install bottle
+$ pip3 install pymongo
+$ pip3 install pytest
 ```
 
 ## 3. Set up Git config
