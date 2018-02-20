@@ -13,7 +13,7 @@
 * SSH into the machine
 
   * Using the machine's IP address
-  * As root, e.g. 
+  * As root, e.g.
 
     * ```$ ssh root@123.124.125.126```
 
