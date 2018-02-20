@@ -16,7 +16,7 @@
 
 ## 2. Load software
 
-```bash
+```
 $ apt-get update
 $ apt-get upgrade
 $ apt-get install python3-pip
@@ -30,7 +30,7 @@ $ pip3 install pytest
 
 Using your own name and email, configure git:
 
-```python3
+```
 git config --global user.email "msmart86@kent.edu"
 git config --global user.name "Maxwell Smart"
 ```
