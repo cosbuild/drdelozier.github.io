@@ -8,8 +8,12 @@
 
 * [Lecture 1A - Introduction](https://docs.google.com/presentation/d/1AmGumXqrnFi-h3C19-SsG1ssVeSLsZkIK_e3E-aOSmc/edit?usp=sharing)
 * [Lecture 1B - IOT Basics](data_streams_lecture_01_introduction.pdf)
+* [Lecture 2 - Arduino Basics](data_streams_lecture_02_arduino_basics.pdf)
+
 
 ## 3. Activities
+
+* (Instructions for specific activities will go here)
 
 ## 4. Code
 

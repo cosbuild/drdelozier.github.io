@@ -1,4 +1,4 @@
-# Useful Resources
+# Tutorials
 
 ## 1. [Software Installation](software_installation.md)
 
