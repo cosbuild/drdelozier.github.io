@@ -9,6 +9,7 @@
 * [Lecture 1A - Introduction](https://docs.google.com/presentation/d/1AmGumXqrnFi-h3C19-SsG1ssVeSLsZkIK_e3E-aOSmc/edit?usp=sharing)
 * [Lecture 1B - IOT Basics](data_streams_lecture_01_introduction.pdf)
 * [Lecture 2 - Arduino Basics](data_streams_lecture_02_arduino_basics.pdf)
+* [Lecture 7 - Dashboards](https://docs.google.com/presentation/d/194CPcfQmzr0ntqJcakis9Pw3PATmmCo75210kQCMxYg/edit?usp=sharing)
 * [Lecture 8 - Catch-Up and Homework](https://docs.google.com/presentation/d/1dVYhPCajXm8lWLDzyQgUHTq03kIzY_fmx-MrAG7yC2A/edit?usp=sharing)
 
 
