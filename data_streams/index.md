@@ -12,6 +12,7 @@
 * [Lecture 6 - Collection Architecture](https://docs.google.com/presentation/d/10Ziew_atXTvryTR6LvgB8Bud5JzAcEvriGeDSPpeW2k/edit?usp=sharing)
 * [Lecture 7 - Dashboards](https://docs.google.com/presentation/d/194CPcfQmzr0ntqJcakis9Pw3PATmmCo75210kQCMxYg/edit?usp=sharing)
 * [Lecture 8 - Catch-Up and Homework](https://docs.google.com/presentation/d/1dVYhPCajXm8lWLDzyQgUHTq03kIzY_fmx-MrAG7yC2A/edit?usp=sharing)
+* [Lecture 10 - Google Maps Info](https://docs.google.com/presentation/d/1mu18kyZtax_TXYScpeLIBfDIps4baGvxf0WMdJG2cws/edit?usp=sharing)
 
 
 ## 3. Activities
