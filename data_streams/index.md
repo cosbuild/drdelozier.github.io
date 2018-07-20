@@ -14,7 +14,7 @@
 * [Lecture 8 - Catch-Up and Homework](https://docs.google.com/presentation/d/1dVYhPCajXm8lWLDzyQgUHTq03kIzY_fmx-MrAG7yC2A/edit?usp=sharing)
 * [Lecture 10 - Google Maps Info](https://docs.google.com/presentation/d/1mu18kyZtax_TXYScpeLIBfDIps4baGvxf0WMdJG2cws/edit?usp=sharing)
 * [Lecture 11 - Vector Dashboards](https://docs.google.com/presentation/d/13YYNfh0MqLY33IZs3qhipZ4XPO4yWB90AynVKM8QHl8/edit?usp=sharing)
-
+* [Lecture 12 - Cloud Aggregators](https://docs.google.com/presentation/d/1eX2JNwZ0oO5ULUNuMtCq4hl9m9Y8T1Z0MYfgQ95f0DI/edit?usp=sharing)
 
 ## 3. Activities
 
