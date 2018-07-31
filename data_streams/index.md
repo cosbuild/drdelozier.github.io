@@ -18,8 +18,8 @@
 
 ## 3. Activities
 
-* [Extra Credit: PubNub Tutorial] (https://www.pubnub.com/blog/build-your-own-hq-trivia-app-for-android/?utm_source=EmailBlasts&utm_medium=Content-Roundup&utm_campaign=CR-CY18-Q3-Content-Roundup) 
-* (or any other PubNumb tutorial...)
+* [Extra Credit: PubNub Tutorial](https://www.pubnub.com/blog/build-your-own-hq-trivia-app-for-android/?utm_source=EmailBlasts&utm_medium=Content-Roundup&utm_campaign=CR-CY18-Q3-Content-Roundup) 
+* (or any other PubNub tutorial...)
 
 ## 4. Code
 
