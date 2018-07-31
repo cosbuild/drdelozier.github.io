@@ -2,7 +2,7 @@
 
 ## 1. Syllabus
 
-* [Syllabus_Data_Streams_Summer_2018.pdf](Syllabus_Data_Stream_Summer_2018.pdf)
+* Syllabus information can be found in lecture 1A notes, below.
 
 ## 2. Slides
 
