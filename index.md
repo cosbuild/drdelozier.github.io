@@ -1,6 +1,8 @@
-# Course Materials - Spring 2018
+# Course Materials - Fall 2018
 
-## - [Data Streams](data_streams)
+## - [Software Engineering](software_engineering)
+
+## - [Web Programming I](web_programming_i)
 
 ## - [Tutorials](tutorials)
 
