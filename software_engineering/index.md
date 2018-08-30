@@ -2,11 +2,11 @@
 
 ## 1. Syllabus
 
-* [Syllabus](url)
+* [Syllabus](https://docs.google.com/document/d/14Hx_4RKRiSStZ8q0Bp_g19Zrc262csAVUaPV4FXEIi0/edit?usp=sharing)
 
 ## 2. Slides
 
-* [Title](url)
+* [8/27 Introduction (1)](https://docs.google.com/presentation/d/1pcQCdtVLMX0PWwEMIpsuH0vcjt6WBE6Wp25HgWlWM84/edit?usp=sharing)
 
 ## 3. Activities
 

@@ -10,10 +10,11 @@
 ## 2. _Python Anywhere_
 
 * Go to https://www.pythonanywhere.com/
+* Use your kent ID as your username, 
 * Click on _Pricing & Signup_ in the top row.
 * Sign up for a _Hacker_ plan at $5.00/month.
 * Enter some way to pay the bill.
-* Also, sign up for a free plan using _yourname_api_ as the username. 
+* Also, go ahead and sign up for a second free plan using _yourusername_api_ as the username. You will want this eventually. 
 
 ## 2. _MLAB_ (was _MongoLabs_)
 
@@ -23,13 +24,7 @@ _MLAB_ is a cloud provider for Mongo databases. You can connect to an MLAB datab
 * Sign up for a free 500MB plan.
 * Create a database deployment.
 * Within that database, create a user. (Your MLAB login is _not_ a database user account.)
-* You can browse and create data with the online tools. 
+* You can browse and create data with the online tools available on the MLab web site. 
 * Make note of the connection strings.
-
-## 3. _Digital Ocean_
-
-* Go to https://cloud.digitalocean.com/registrations/new
-* Sign up
-* Enter some means of payment
 
 ### [[ www.drdelozier.net - Dr. Gregory S. DeLozier - Kent State ]](http://www.drdelozier.net)
