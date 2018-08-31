@@ -8,9 +8,9 @@
 
 * [Title](url)
 
-## 3. Activities
+## 3. Notes
 
-* Information about other activities goes here
+* Notes about other activities go here
 
 ## 4. Code
 
