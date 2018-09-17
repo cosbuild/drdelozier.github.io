@@ -6,7 +6,8 @@
 
 ## 2. Slides
 
-* [8/27 Introduction (1)](https://docs.google.com/presentation/d/1pcQCdtVLMX0PWwEMIpsuH0vcjt6WBE6Wp25HgWlWM84/edit?usp=sharing)
+* [Introduction](https://docs.google.com/presentation/d/1pcQCdtVLMX0PWwEMIpsuH0vcjt6WBE6Wp25HgWlWM84/edit?usp=sharing)
+* [Class Project](https://drive.google.com/open?id=1y4THs7u5r0GhS7xfk-wYII2eBjBhuhoaK9SoLJ5LYKo)
 
 ## 3. Activities
 
