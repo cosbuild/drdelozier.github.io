@@ -10,4 +10,7 @@ Get it from
 
 Upgrade pip (or pip3)
 
+After moving your code to PA, fix the WSGI file:
+
+   from microblog import app as application  # noqa
 
