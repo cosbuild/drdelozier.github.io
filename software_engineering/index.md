@@ -6,6 +6,7 @@
 
 ## 2. Slides
 
+* [Slides Collection at Google Docs](https://drive.google.com/open?id=1aJ-mNfnOvlosncrYAQ_r3a58nlVHihS5)
 * [Introduction](https://docs.google.com/presentation/d/1pcQCdtVLMX0PWwEMIpsuH0vcjt6WBE6Wp25HgWlWM84/edit?usp=sharing)
 * [Class Project](https://drive.google.com/open?id=1y4THs7u5r0GhS7xfk-wYII2eBjBhuhoaK9SoLJ5LYKo)
 
