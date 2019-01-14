@@ -1,4 +1,4 @@
-# Software Engineering - Fall 2018
+# Software Engineering - Spring 2019
 
 ## 1. Syllabus
 
