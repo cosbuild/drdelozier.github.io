@@ -2,7 +2,7 @@
 
 ## 1. Syllabus
 
-* [Syllabus](https://docs.google.com/document/d/14Hx_4RKRiSStZ8q0Bp_g19Zrc262csAVUaPV4FXEIi0/edit?usp=sharing)
+* [Syllabus](https://docs.google.com/document/d/1ekgbI4nxAD7MAEii7VkmhqXRlgwkrAfpn1qqKdrSghE/edit?usp=sharing)
 
 ## 2. Slides
 
