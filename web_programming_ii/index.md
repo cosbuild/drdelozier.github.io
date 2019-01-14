@@ -2,11 +2,11 @@
 
 ## 1. Syllabus
 
-* [Syllabus](https://docs.google.com/document/d/109LWXW3fTYgfJ9faASLYCpQPLU6ZNM9NSj03yVBuDRo/edit?usp=sharing)
+* [Syllabus](https://docs.google.com/document/d/1IZUTN5lb-_ExaEBcS4sIj9dShGG6jdwHU15XwrtdDPU/edit?usp=sharing)
 
 ## 2. Slides
 
-* [Title](url)
+* [Slide Collection](https://drive.google.com/open?id=1yIEIkk_FdLxw7Rm_XDQ9fd30eGa-6c46)
 
 ## 3. Notes
 
@@ -17,7 +17,7 @@
 
 Most code is in the repository at
 
-* <https://github.com/drdelozier/web_programming_i>
+* <https://github.com/drdelozier/web_programming_ii>
 
 ---
 
