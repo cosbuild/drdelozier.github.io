@@ -1,4 +1,4 @@
-# Web Programming II - Fall 2019
+# Web Graphics - Summer 2019
 
 ## 1. Syllabus
 
