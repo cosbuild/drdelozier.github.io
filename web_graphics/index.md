@@ -19,6 +19,14 @@ Most code is in the repository at
 
 * <https://github.com/drdelozier/web_graphics>
 
+## 5. Links
+
+Youtube P5js Transform Videos
+
+* https://www.youtube.com/watch?v=o9sgjuh-CBM
+* https://www.youtube.com/watch?v=pkHZTWOoTLM
+* https://www.youtube.com/watch?v=IVMvq9rd8dA
+
 ---
 
 ### [[ www.drdelozier.net - Dr. Gregory S. DeLozier - Kent State ]](http://www.drdelozier.net)
