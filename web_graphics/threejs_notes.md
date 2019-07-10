@@ -21,7 +21,7 @@ $ git clone https://github.com/mrdoob/three.js.git
 
 ## Copy the base ThreeJS files to your web app
 
-In your static directory, create a folder called ```vendor``` and navigate to it.
+In your static directory, create a folder called ```vendor``` and navigate to it. A _vendor_ folder is usually a location that holds code you got from somewhere else and are using in your project. Presumably with permission, of course. 
 
 (here we assume your web app is in ```~/sites/web_graphics```...)
 
