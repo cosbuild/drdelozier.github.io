@@ -60,7 +60,7 @@ Put this page at ```~/sites/web_graphics/static/three/example-1.html```
 		</style>
 	</head>
 	<body>
-		<script src="/static/three/vendor/three.min.js"></script>
+		<script src="/static/vendor/three.js/build/three.min.js"></script>
 		<script>
 			var scene = new THREE.Scene();
 			var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
