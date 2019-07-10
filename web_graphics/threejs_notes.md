@@ -21,12 +21,78 @@ $ git clone https://github.com/mrdoob/three.js.git
 
 ## Copy the base ThreeJS files to your web app
 
-In your static directory, create a folder called ```.../three```.
+In your static directory, create a folder called ```vendor``` and navigate to it.
 
 (here we assume your web app is in ```~/sites/web_graphics```...)
 
 ```
-$ mkdir ~/sites/web_graphics/three
+$ mkdir ~/sites/web_graphics/static/vendor
+$ cd ~/sites/web_graphics/static/vendor
 ```
 
+Make ```vendor/threejs``` folders and copy the basic file there.
 
+```
+$ mkdir -p ~/sites/web_graphics/static/vendor/three.js/build
+$ cd ~/sites/web_graphics/static/vendor/three.js/build
+$ cp ~/projects/three.js/build/three.min.js .
+$ ls
+three.min.js
+```
+
+Change back to the static directory
+
+```
+$ cd ~/sites/web_graphics/static/three
+```
+
+## Put the basic HTML page in place
+
+Put this page at ```~/sites/web_graphics/static/three/example-1.html```
+
+```
+<html>
+	<head>
+		<title>My first three.js app</title>
+		<style>
+			body { margin: 0; }
+			canvas { width: 100%; height: 100% }
+		</style>
+	</head>
+	<body>
+		<script src="/static/three/vendor/three.min.js"></script>
+		<script>
+			var scene = new THREE.Scene();
+			var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
+
+			var renderer = new THREE.WebGLRenderer();
+			renderer.setSize( window.innerWidth, window.innerHeight );
+			document.body.appendChild( renderer.domElement );
+
+			var geometry = new THREE.BoxGeometry( 1, 1, 1 );
+			var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+			var cube = new THREE.Mesh( geometry, material );
+			scene.add( cube );
+
+			camera.position.z = 5;
+
+			var animate = function () {
+				requestAnimationFrame( animate );
+
+				cube.rotation.x += 0.01;
+				cube.rotation.y += 0.01;
+
+				renderer.render( scene, camera );
+			};
+
+			animate();
+		</script>
+	</body>
+</html>
+```
+
+Don't forget to save the file!
+
+## Check out the result
+
+Refresh the web app and check out the result. 
