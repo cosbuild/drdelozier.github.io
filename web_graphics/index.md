@@ -12,6 +12,7 @@
 
 * Notes about other activities go here
 * [TinyDB Notes](tinydb_notes.md)
+* [ThreeJS Notes](threejs_notes.md)
 
 ## 4. Code
 
