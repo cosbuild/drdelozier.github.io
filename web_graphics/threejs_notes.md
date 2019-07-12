@@ -96,3 +96,9 @@ Don't forget to save the file!
 ## Check out the result
 
 Refresh the web app and check out the result. 
+
+## Useful links
+
+Comments on getting the files
+
+* https://discoverthreejs.com/book/0-intro/6-get-threejs/
