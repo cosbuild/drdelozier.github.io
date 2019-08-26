@@ -1,6 +1,8 @@
-# Course Materials - Spring 2019
+# Course Materials Fall 2019
 
-## - [Web Graphics](web_graphics)
+## - [Software Engineering](software_engineering)
+
+## - [Web Programming I](web_programming_i)
 
 ## - [Tutorials](tutorials)
 
